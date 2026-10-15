@@ -43,4 +43,6 @@ In the baseline test-set evaluation, Logistic Regression achieved an ROC-AUC of 
 The dataset is small and comes from a single source. The models are intended for educational and research purposes only and are not suitable for clinical decision-making.
 
 ## Author
-Anantika Sisodiya
+Avika Manglick - Validation, Tuning, Report
+Anantika Sisodiya - Cleaning and EDA
+Ishita Singh - Models
